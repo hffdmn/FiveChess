@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1543847441 source:c:\users\hffdmn\desktop\fivechess\chesstable.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	"chesstable.h"
+	"CheckResult.h"
+	"ComputerNextChess.h"
+
+1543742618 c:\users\hffdmn\desktop\fivechess\chesstable.h
+	<iostream>
+
+1543644990 source:c:\users\hffdmn\desktop\fivechess\main.cpp
+	<iostream>
+	"chesstable.h"
+
+1543847644 source:c:\users\hffdmn\desktop\fivechess\checkresult.cpp
+	<iostream>
+	"CheckResult.h"
+	"ComputerNextChess.h"
+
+1543634112 c:\users\hffdmn\desktop\fivechess\checkresult.h
+
+1543837511 source:c:\users\hffdmn\desktop\fivechess\computernextchess.cpp
+	<iostream>
+	"ComputerNextChess.h"
+
+1543820093 c:\users\hffdmn\desktop\fivechess\computernextchess.h
+
+1544709445 source:c:\users\hffdmn\desktop\fivechess - 副本 (2)\chesstable.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	"ChessTable.h"
+
+1544448237 c:\users\hffdmn\desktop\fivechess - 副本 (2)\chesstable.h
+	<iostream>
+
+1544704476 c:\users\hffdmn\desktop\fivechess - 副本 (2)\checkresult.h
+
+1543930519 c:\users\hffdmn\desktop\fivechess - 副本 (2)\computernextchess.h
+
+1544923789 source:c:\users\hffdmn\desktop\fivechess - 副本 (2)\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Game.h"
+
+1544713043 source:c:\users\hffdmn\desktop\fivechess - 副本 (2)\checkresult.cpp
+	<iostream>
+	"CheckResult.h"
+	"ComputerNextChess.h"
+
+1544922783 source:c:\users\hffdmn\desktop\fivechess - 副本 (2)\computernextchess.cpp
+	<iostream>
+	"ComputerNextChess.h"
+
+1544449071 c:\users\hffdmn\desktop\fivechess - 副本 (2)\game.h
+	"ChessTable.h"
+
+1544923610 source:c:\users\hffdmn\desktop\fivechess - 副本 (2)\game.cpp
+	<windows.h>
+	"Game.h"
+	"CheckResult.h"
+	"ComputerNextChess.h"
+
+1544713043 source:c:\users\hffdmn\desktop\郝凡凡+201828018670092\checkresult.cpp
+	<iostream>
+	"CheckResult.h"
+	"ComputerNextChess.h"
+
+1544704476 c:\users\hffdmn\desktop\郝凡凡+201828018670092\checkresult.h
+
+1544930056 c:\users\hffdmn\desktop\郝凡凡+201828018670092\computernextchess.h
+
+1544923610 source:c:\users\hffdmn\desktop\郝凡凡+201828018670092\game.cpp
+	<windows.h>
+	"Game.h"
+	"CheckResult.h"
+	"ComputerNextChess.h"
+
+1544930747 c:\users\hffdmn\desktop\郝凡凡+201828018670092\game.h
+	"ChessTable.h"
+
+1544926632 c:\users\hffdmn\desktop\郝凡凡+201828018670092\chesstable.h
+	<iostream>
+
+1544923789 source:c:\users\hffdmn\desktop\郝凡凡+201828018670092\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Game.h"
+
+1544926610 source:c:\users\hffdmn\desktop\郝凡凡+201828018670092\chesstable.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	"ChessTable.h"
+
+1544929995 source:c:\users\hffdmn\desktop\郝凡凡+201828018670092\computernextchess.cpp
+	<iostream>
+	"ComputerNextChess.h"
+
